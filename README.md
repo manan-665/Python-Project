@@ -9,7 +9,6 @@ A simple Python-based calories tracker utility (inferred from repository files).
 ## Requirements
 - Python 3.8+ 
 - pandas
-
 Install required packages:
 pip install pandas
 
@@ -20,10 +19,24 @@ pip install pandas
    
 ## Usage
 Basic usage:
-
 - Run the script:
   python "PANDAS Calories tracker.py"
 
 ## Files
 - PANDAS Calories tracker.py — main script (primary functionality; uses pandas)
 - README.md — this file
+
+##  Project Contributors
+| Name | Registration Number | Role |
+|------|---------------------|------|
+| **Manan Shah** | 25BCE2037 | Coding and pandas integration |
+| **Somil** | 25BCE2007 | Debugging and Testing |
+| **Yash** | 25BCE0989 | Report writing |
+| **Karan** | 25BCE0996 | Project Lead and database handling |
+| **Aviral** | 25BCE2019 | UI & UX design |
+
+**Supervisor:** *Thirumoorthy K Sir*  
+**School of Computer Science and Engineering, VIT Vellore**
+
+##  License
+This project is developed for academic and research purposes as part of the **BACSE101 – Problem Solving Using Python** course at **VIT University**.
